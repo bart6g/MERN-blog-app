@@ -1,0 +1,1 @@
+This application is fullstack. Backend was written with Express, communication with the database was ensured using mongoose. The database was set up locally. Client site is not styled at this moment. The app was written mainly to learn how to use a local database as well as Express framework.
